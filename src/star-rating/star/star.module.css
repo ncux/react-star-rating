@@ -1,0 +1,17 @@
+
+.radioButton {
+    display: none;
+}
+
+.star {
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+.unrated {
+    fill: aliceblue;
+}
+
+.fillStar {
+    fill: gold;
+}
